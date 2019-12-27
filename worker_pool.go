@@ -1,4 +1,4 @@
-package woker_pool
+package go_woker_pool
 
 
 import (
